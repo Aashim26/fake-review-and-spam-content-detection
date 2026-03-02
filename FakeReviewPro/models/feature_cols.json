@@ -1,0 +1,17 @@
+[
+  "rating",
+  "reviewUsefulCount",
+  "reviewCount",
+  "friendCount",
+  "usefulCount",
+  "coolCount",
+  "funnyCount",
+  "complimentCount",
+  "tipCount",
+  "fanCount",
+  "restaurantRating",
+  "ReviewLength",
+  "rating_minus_restaurant",
+  "useful_per_reviewcount",
+  "engagement_sum"
+]

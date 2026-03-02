@@ -1,0 +1,16 @@
+{
+  "data_path": "new_data_test.csv",
+  "n_rows": 2483,
+  "n_cols": 23,
+  "label_col": "flagged",
+  "text_col": "reviewContent",
+  "weights": {
+    "text": 0.6,
+    "behavior": 0.4
+  },
+  "auc": {
+    "text": 0.6933184277891189,
+    "behavior": 0.9386766469006189,
+    "hybrid": 0.9317423285052331
+  }
+}
